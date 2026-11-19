@@ -1,0 +1,18 @@
+p{
+    line-height: 22px;
+    padding: 23px;
+    border-radius: 4px;
+    text-align: center;
+    font-size:23px;
+    background-color: #123;
+    color: rgb(201, 210, 220);
+    text-decoration: underline;
+    text-transform:uppercase;
+    font-family: sans-serif;
+    text-shadow: 3px 3px 3PX rgb(226, 197, 197);
+    display: inline;
+    position:absolute;
+    top: 40%;
+    left: 40%;
+    box-shadow: 2px 8px 8px red;
+}
